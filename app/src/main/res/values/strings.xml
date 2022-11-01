@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ToDO</string>
+    <string name="inputtodo">タイトルを入力してください</string>
+    <string name="todo">CONFIRM</string>
+    <string name="inputmemo">メモを入力してください</string>
+    <string name="camera">Camera</string>
+    <string name="savebtn">SAVE</string>
+    <string name="cancelbtn">CANCEL</string>
+    <string name="resetbtn">RESET</string>
+</resources>
